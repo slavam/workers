@@ -1,0 +1,26 @@
+C:/Rails/Ruby192/bin/ruby.exe extconf.rb
+checking for yaml.h... no
+yaml.h is missing. Try 'port install libyaml +universal' or 'yum install libyaml-devel'
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers.  Check the mkmf.log file for more
+details.  You may need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=C:/Rails/Ruby192/bin/ruby
+	--with-libyaml-dir
+	--without-libyaml-dir
+	--with-libyaml-include
+	--without-libyaml-include=${libyaml-dir}/include
+	--with-libyaml-lib
+	--without-libyaml-lib=${libyaml-dir}/lib

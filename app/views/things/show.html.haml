@@ -1,0 +1,7 @@
+.notice
+  = notice
+  = image_tag @thing.image.url(:thumb) 
+        
+  = link_to 'Edit', edit_thing_path(@thing)
+  %br
+  = link_to 'Back', things_path

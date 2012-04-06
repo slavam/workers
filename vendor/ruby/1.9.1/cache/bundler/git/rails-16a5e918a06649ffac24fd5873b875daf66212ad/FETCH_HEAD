@@ -1,0 +1,153 @@
+5b3f7563ae1b4a7160fda7fe34240d40c5777dcd		branch '1-2-stable' of git://github.com/rails/rails
+81d828a14c82b882e31612431a56f830bdc1076f		branch '2-0-stable' of git://github.com/rails/rails
+b5d759fd2848146f7ee7a4c1b1a4be39e2f1a2bc		branch '2-1-stable' of git://github.com/rails/rails
+c6cb5a5ab00ac9e857e5b2757d2bce6a5ad14b32		branch '2-2-stable' of git://github.com/rails/rails
+e8c05974e1a26859144e02fd26df174ffd25cd95		branch '2-3-stable' of git://github.com/rails/rails
+f47a303c3940874b7e4fd4e3ae4f68b1efa5f0ac		branch '3-0-stable' of git://github.com/rails/rails
+8c3ca29d45c7608047d7f2db524893756a60a1cb		branch '3-1-stable' of git://github.com/rails/rails
+56d9945e8a9613c2983c3ab60600bac6e58b58d8		branch '3-2-stable' of git://github.com/rails/rails
+f4db3d72ea564c77d5a689b850751ce510500585		branch 'compressor' of git://github.com/rails/rails
+c5a809e29e9213102351def7e791c3a8a67d7371		branch 'deps_refactor' of git://github.com/rails/rails
+821e15e5f2d9ef2aa43918a16cbd00f40c221e95		branch 'encoding' of git://github.com/rails/rails
+29089bf6faeb496f0cb7d439b848bc6ee4f40e9e		branch 'master' of git://github.com/rails/rails
+cd5dabab95924dfaf3af8c429454f1a46d9665c1		branch 'opt_routes' of git://github.com/rails/rails
+c796d695909c8632b4074b7af69a1ef46c68289a		branch 'sass-cleanup' of git://github.com/rails/rails
+696d01f7f4a8ed787924a41cce6df836cd73c46f		branch 'serializers' of git://github.com/rails/rails
+155f734155fd0772d19f4201f244dccd8cdbd126	not-for-merge	tag 'list' of git://github.com/rails/rails
+e2724aa1856253f4fc48ddc251583042c5f06029	not-for-merge	tag 'v0.10.0' of git://github.com/rails/rails
+25b656fefa75954cffff119a14cf7650f4f99a92	not-for-merge	tag 'v0.10.1' of git://github.com/rails/rails
+61d236d94133fb7ae2f0dce0badaf2bf07b301b7	not-for-merge	tag 'v0.11.0' of git://github.com/rails/rails
+f7b89667ac4157d64697aa2f51bcea8a26c0fd8f	not-for-merge	tag 'v0.11.1' of git://github.com/rails/rails
+0270b26e41f33d66af3a2bea1371af037b0b5923	not-for-merge	tag 'v0.12.0' of git://github.com/rails/rails
+a0d31fcd81ef690adf56568aa954a07081c6aecc	not-for-merge	tag 'v0.13.0' of git://github.com/rails/rails
+1911f8eee928915f1020753a4a3ba34c81131a66	not-for-merge	tag 'v0.13.1' of git://github.com/rails/rails
+b437eee41d38188f10f11e041b82d7def0a20629	not-for-merge	tag 'v0.14.1' of git://github.com/rails/rails
+98b0b117f755a5d27ac5161dc7d0757c3c217230	not-for-merge	tag 'v0.14.2' of git://github.com/rails/rails
+c2eb22e5c69caba0f9eeb5b95558837d0d572f44	not-for-merge	tag 'v0.14.3' of git://github.com/rails/rails
+93bd3b00e16cb6d79d38480e1827935067c8c771	not-for-merge	tag 'v0.14.4' of git://github.com/rails/rails
+ed14042feac6ff84670958fc3e2017aaacac5856	not-for-merge	tag 'v0.9.1' of git://github.com/rails/rails
+d9c0a37f37402fa128302b7c048201d2180a029e	not-for-merge	tag 'v0.9.2' of git://github.com/rails/rails
+b3739fca2c185831c97efdd9fdcaa23476863539	not-for-merge	tag 'v0.9.3' of git://github.com/rails/rails
+3b9be80a3a6b83156562d218e459822a51d6795c	not-for-merge	tag 'v0.9.4' of git://github.com/rails/rails
+03e44cbcb2426a97dd35f76bc2ac6491c69821b1	not-for-merge	tag 'v0.9.4.1' of git://github.com/rails/rails
+11611c1b002243a766c86c374b812c61a5b672c7	not-for-merge	tag 'v0.9.5' of git://github.com/rails/rails
+37e0d5de899cfbb3703067daefe2546215aaa4cc	not-for-merge	tag 'v1.0.0' of git://github.com/rails/rails
+9babb2014ba101e8c4a7b7808c3e3624ee7bb8d7	not-for-merge	tag 'v1.1.0' of git://github.com/rails/rails
+330823687bbae1c05af6545912377d317300c1bb	not-for-merge	tag 'v1.1.0_RC1' of git://github.com/rails/rails
+496725022a09cd2100e1550745064fb5a6308ee4	not-for-merge	tag 'v1.1.1' of git://github.com/rails/rails
+83824935518f62cee9cc1c120b125085072f583c	not-for-merge	tag 'v1.1.2' of git://github.com/rails/rails
+0c516b370b08e3e095fe24cc0e2b8d52fdecf9e0	not-for-merge	tag 'v1.1.3' of git://github.com/rails/rails
+14f11a73ed8cd50fa9075e3f068feaf3b89686ba	not-for-merge	tag 'v1.1.4' of git://github.com/rails/rails
+4874df1d674bccbe2fa41a12bb93fa63a5d489ee	not-for-merge	tag 'v1.1.5' of git://github.com/rails/rails
+e071b60e17913e210baf9bf77c4c5c0bb344d999	not-for-merge	tag 'v1.1.6' of git://github.com/rails/rails
+5988aaa50e72643b021ec5e8562d14a39b4f54e1	not-for-merge	tag 'v1.2.0' of git://github.com/rails/rails
+12949bbc135a33c9618e7816105d70b8a9c7e426	not-for-merge	tag 'v1.2.0_RC1' of git://github.com/rails/rails
+83a21f75cf518b7f50581041cfce038c196a56b5	not-for-merge	tag 'v1.2.0_RC2' of git://github.com/rails/rails
+03e763ffc823531ea5a5a3be7134318f85370139	not-for-merge	tag 'v1.2.1' of git://github.com/rails/rails
+e73bdfc31be5acfddefdff6fa40515c145241f52	not-for-merge	tag 'v1.2.2' of git://github.com/rails/rails
+30549718ac827f3ae8c7afc8dc9a6bf639e4e65c	not-for-merge	tag 'v1.2.3' of git://github.com/rails/rails
+478cd8223c5ef43abbbb347c5517910a5ab91b67	not-for-merge	tag 'v1.2.4' of git://github.com/rails/rails
+d201969236f1696e70c73e12a93229feac69ceda	not-for-merge	tag 'v1.2.5' of git://github.com/rails/rails
+9c190098e0f80cf2638223142f335ffb25212b86	not-for-merge	tag 'v1.2.6' of git://github.com/rails/rails
+db885e81b9dc918a75bd66b1631a13e10447d0ff	not-for-merge	tag 'v2.0.0' of git://github.com/rails/rails
+7275d2749cb829d89bffe7e6aa87c99084351f6a	not-for-merge	tag 'v2.0.0_PR' of git://github.com/rails/rails
+0f2c6302a19abce498d6cdbd44df0131c51fc8a3	not-for-merge	tag 'v2.0.0_RC1' of git://github.com/rails/rails
+1d32cec17d768ac78d52903f5ed8b19cc37c7f78	not-for-merge	tag 'v2.0.0_RC2' of git://github.com/rails/rails
+db885e81b9dc918a75bd66b1631a13e10447d0ff	not-for-merge	tag 'v2.0.1' of git://github.com/rails/rails
+c8da518bbfedc2a06b1d96912ddae00e57f21748	not-for-merge	tag 'v2.0.2' of git://github.com/rails/rails
+44d721c193e5bc9d1fd9073ff65a241039467d7a	not-for-merge	tag 'v2.0.3' of git://github.com/rails/rails
+e724e3ede67b4199db8765e00d370e6a7bd401e6	not-for-merge	tag 'v2.0.4' of git://github.com/rails/rails
+c329794e7334f3d355d0a039e23a7145ad40ed35	not-for-merge	tag 'v2.0.5' of git://github.com/rails/rails
+71528b1825ce5184b23d09f923cb72f4073ce8ed	not-for-merge	tag 'v2.1.0' of git://github.com/rails/rails
+d2212c1601dcd67e72e9d52f98347d3285fd7134	not-for-merge	tag 'v2.1.0_RC1' of git://github.com/rails/rails
+d4eb3c0b7d13d3898c14d6ea7bfbc1853394f4e8	not-for-merge	tag 'v2.1.1' of git://github.com/rails/rails
+15af6b315ee65afbc873889b6ad81b7e6b7e1b35	not-for-merge	tag 'v2.1.2' of git://github.com/rails/rails
+a17fc20eb122d45a017e99e592e5e159025ab26b	not-for-merge	tag 'v2.2.0' of git://github.com/rails/rails
+44c3b865ac52a7c9a6312982ba0f6c20d7ad41e1	not-for-merge	tag 'v2.2.1' of git://github.com/rails/rails
+ff561370739eb809d1d006ea842cd2b1e43f6950	not-for-merge	tag 'v2.2.2' of git://github.com/rails/rails
+a60779f7e69a7045a308844e9464d7d6b9cac94d	not-for-merge	tag 'v2.2.3' of git://github.com/rails/rails
+beca1f2e151558ded3d5a4efebd328ab2533edc6	not-for-merge	tag 'v2.3.0' of git://github.com/rails/rails
+b1c989f28dd1d619f0e3e3ca1b894b686e517f2f	not-for-merge	tag 'v2.3.1' of git://github.com/rails/rails
+f5ed5c317e2280e41a9185c3000e7fbd1f7b3176	not-for-merge	tag 'v2.3.10' of git://github.com/rails/rails
+b0c3d451a242b53c9992cafa9108d0df52b4f2f0	not-for-merge	tag 'v2.3.11' of git://github.com/rails/rails
+a2a34133d8347d83c015b1889a774c718644e4d6	not-for-merge	tag 'v2.3.12' of git://github.com/rails/rails
+dea5a10f716b84a49e3d8fa44efbd3bf1ff1bfda	not-for-merge	tag 'v2.3.13' of git://github.com/rails/rails
+e0774e47302a907319ed974ccf59b8b54d32bbde	not-for-merge	tag 'v2.3.14' of git://github.com/rails/rails
+73fc42cc0b5e94541480032c2941a50edd4080c2	not-for-merge	tag 'v2.3.2' of git://github.com/rails/rails
+dc88847e5ce392eed210b97525c14fca55852867	not-for-merge	tag 'v2.3.2.1' of git://github.com/rails/rails
+a147becfb86b689ab25e92edcfbb4bcc04108099	not-for-merge	tag 'v2.3.3' of git://github.com/rails/rails
+c7bcbb983f84e306e2b43adb698060e060605de9	not-for-merge	tag 'v2.3.3.1' of git://github.com/rails/rails
+a43ef2436cc6b63af35636127e42495ceb538cee	not-for-merge	tag 'v2.3.4' of git://github.com/rails/rails
+bfe032858077bb2946abe25e95e485ba6da86bd5	not-for-merge	tag 'v2.3.5' of git://github.com/rails/rails
+56bb5504dd1fc7314f1bd7a489ddaff973668be2	not-for-merge	tag 'v2.3.6' of git://github.com/rails/rails
+326188c25efa3721a7e2f68cea3534b3e2850fcf	not-for-merge	tag 'v2.3.7' of git://github.com/rails/rails
+240f4e944cd90fca138aba8467456043952110cc	not-for-merge	tag 'v2.3.8' of git://github.com/rails/rails
+a61a39ecd44153676cc56257bbe8bbdf9a727cf9	not-for-merge	tag 'v2.3.9' of git://github.com/rails/rails
+b2c91983dcb5e2a21ea2c0be28f86ad33b48f660	not-for-merge	tag 'v2.3.9.pre' of git://github.com/rails/rails
+9891ca89c69732a21743f0349f2995956a7802e7	not-for-merge	tag 'v3.0.0' of git://github.com/rails/rails
+f0364d87f03d58312bcab1b2f17b5b56b6c72653	not-for-merge	tag 'v3.0.0.beta.2' of git://github.com/rails/rails
+8e9df34fa3fd22719d939ba72f19b3ae9ffcc018	not-for-merge	tag 'v3.0.0.beta.3' of git://github.com/rails/rails
+c548e213658386f3a5b00097bc5b30bf3736e6b4	not-for-merge	tag 'v3.0.0.beta1' of git://github.com/rails/rails
+f0364d87f03d58312bcab1b2f17b5b56b6c72653	not-for-merge	tag 'v3.0.0.beta2' of git://github.com/rails/rails
+8e9df34fa3fd22719d939ba72f19b3ae9ffcc018	not-for-merge	tag 'v3.0.0.beta3' of git://github.com/rails/rails
+df40dbe6f13c6799e972b20dcc1fbf11f0a02c61	not-for-merge	tag 'v3.0.0.beta4' of git://github.com/rails/rails
+b6f99325613baf0534c10677da9c82ac27b628c0	not-for-merge	tag 'v3.0.0_RC' of git://github.com/rails/rails
+822fa17c6c0f159eeff01c8fb251e13666f50357	not-for-merge	tag 'v3.0.0_RC2' of git://github.com/rails/rails
+bac6ba99b11515374d3251ee4a1d1f3a0002713c	not-for-merge	tag 'v3.0.1' of git://github.com/rails/rails
+4f15f392601d4504fab850f3bf659c43f0cb51ec	not-for-merge	tag 'v3.0.10' of git://github.com/rails/rails
+521c9aa6a85fdb4c6d43d2aeb1af7b4cae2a20f5	not-for-merge	tag 'v3.0.10.rc1' of git://github.com/rails/rails
+66a4beb0c9764238e1e8bed83aca88a397039bde	not-for-merge	tag 'v3.0.11' of git://github.com/rails/rails
+9d6377ed731bafbe9d20ac7e950c1c135ab02f9f	not-for-merge	tag 'v3.0.12' of git://github.com/rails/rails
+2935435d7058cf00da3989b0e60a28b1472509bd	not-for-merge	tag 'v3.0.12.rc1' of git://github.com/rails/rails
+186e3c71f95316b94e728eb62b519d074d27cea3	not-for-merge	tag 'v3.0.2' of git://github.com/rails/rails
+0aca27d407a339683665dcbb2199a1337972bb5e	not-for-merge	tag 'v3.0.3' of git://github.com/rails/rails
+1081ea66a3d864f310a1a55f22229af4e10436a7	not-for-merge	tag 'v3.0.4' of git://github.com/rails/rails
+0cbf9b2946c02a5057958dbd47bc164be16cbab2	not-for-merge	tag 'v3.0.4.rc1' of git://github.com/rails/rails
+ecc6bb597fba7512e4eb34566fb2e8eaae9e39b8	not-for-merge	tag 'v3.0.5' of git://github.com/rails/rails
+ef31b87d8297d0473b73a9c2cdc5b3a7395fae06	not-for-merge	tag 'v3.0.5.rc1' of git://github.com/rails/rails
+38df020c95beca7e12f0188cb7e18f3c37789e20	not-for-merge	tag 'v3.0.6' of git://github.com/rails/rails
+ba117b2b43a00c282bb4905fb003dd169a5312df	not-for-merge	tag 'v3.0.6.rc1' of git://github.com/rails/rails
+b13be616a11ffa2c489e1b3ee4ae54e234990fcf	not-for-merge	tag 'v3.0.6.rc2' of git://github.com/rails/rails
+2c3260147f90e35a6a5e3ce1b520b4de701e701e	not-for-merge	tag 'v3.0.7' of git://github.com/rails/rails
+1787447ada8cf224bf5552c6ae8a3db053fa5839	not-for-merge	tag 'v3.0.7.rc1' of git://github.com/rails/rails
+f96ad0d582fd275c6f069e31fe716406a0ba924d	not-for-merge	tag 'v3.0.7.rc2' of git://github.com/rails/rails
+b341e45d8e75d49a9f599881eea952c2a41af032	not-for-merge	tag 'v3.0.8' of git://github.com/rails/rails
+8b0806e1b0ea2dbe31ab25cfba298425fd0369f4	not-for-merge	tag 'v3.0.8.rc1' of git://github.com/rails/rails
+d75652540e8bb9fd565e1d251e6fcd9c3f2e8516	not-for-merge	tag 'v3.0.8.rc2' of git://github.com/rails/rails
+f4073d530f76ebd5371017032874e5865ebd8ecb	not-for-merge	tag 'v3.0.8.rc3' of git://github.com/rails/rails
+ce23c6e47f184616c8cc9b779c1670e1417adfd0	not-for-merge	tag 'v3.0.8.rc4' of git://github.com/rails/rails
+15e2b5887f2185e01b8d92646a7f441b8c1c549e	not-for-merge	tag 'v3.0.9' of git://github.com/rails/rails
+0c1608c4edccbf2a1b6b53d8f1ab7ccacc8cbc65	not-for-merge	tag 'v3.0.9.rc1' of git://github.com/rails/rails
+0e1ecb2e15ab8eaf5641e2ca9eb1c13bf5b304a0	not-for-merge	tag 'v3.0.9.rc2' of git://github.com/rails/rails
+66ec7e84c9710aea7397e9ad92e87063b857c9d5	not-for-merge	tag 'v3.0.9.rc3' of git://github.com/rails/rails
+f283194234669d2034653445ca018582dc382c0e	not-for-merge	tag 'v3.0.9.rc4' of git://github.com/rails/rails
+6824c5d1d303f5bbc5c5d390390204fcc0cd6ced	not-for-merge	tag 'v3.0.9.rc5' of git://github.com/rails/rails
+505e84599aff6abf719484636b0515e1ce2e2220	not-for-merge	tag 'v3.1.0' of git://github.com/rails/rails
+169ae75e091392e3852d0dfb56fadacef4b7a20b	not-for-merge	tag 'v3.1.0.beta1' of git://github.com/rails/rails
+82857adc56efd16d22821971fff4c5e24a3c5b55	not-for-merge	tag 'v3.1.0.rc1' of git://github.com/rails/rails
+d846f4baa5da299d51c72f1bdd098cf982279628	not-for-merge	tag 'v3.1.0.rc2' of git://github.com/rails/rails
+aefd703443807598552f3ea2c81e4e9cb15349df	not-for-merge	tag 'v3.1.0.rc3' of git://github.com/rails/rails
+279781f8964c95f842153c98dc245b06f1b1f76e	not-for-merge	tag 'v3.1.0.rc4' of git://github.com/rails/rails
+a5188333aaf219e4000614f49748f459b79b6ef9	not-for-merge	tag 'v3.1.0.rc5' of git://github.com/rails/rails
+633a5693a7c304ec242488dc5aa11c8956b3b294	not-for-merge	tag 'v3.1.0.rc6' of git://github.com/rails/rails
+e4fc8e22c17e222b3057d2b053ba5586a7260db0	not-for-merge	tag 'v3.1.0.rc7' of git://github.com/rails/rails
+c4ce550f3e28a1dbc4716afc9957f2ec3c426782	not-for-merge	tag 'v3.1.0.rc8' of git://github.com/rails/rails
+ba708126d85a020f8984db1a12261bcdba47d70f	not-for-merge	tag 'v3.1.1' of git://github.com/rails/rails
+3f9665be11f9938baa9f617f3391cc0d7e3ff10b	not-for-merge	tag 'v3.1.1.rc1' of git://github.com/rails/rails
+aead5720d75ef3e2babb8d115a8587b2736a5b3b	not-for-merge	tag 'v3.1.1.rc2' of git://github.com/rails/rails
+57a01f337eb4da7941ec35e5541fa456b060601a	not-for-merge	tag 'v3.1.1.rc3' of git://github.com/rails/rails
+0e6b118313b5603482df071e30434ddab758f8a1	not-for-merge	tag 'v3.1.2' of git://github.com/rails/rails
+68ed8eae304b64c5049badda6a2cf854b5949831	not-for-merge	tag 'v3.1.2.rc1' of git://github.com/rails/rails
+e29f27ad76b6e031f21bc258a6ff713ec9a16365	not-for-merge	tag 'v3.1.2.rc2' of git://github.com/rails/rails
+e9474c89d9583d50be485bef8fabb31a75b242bb	not-for-merge	tag 'v3.1.3' of git://github.com/rails/rails
+1aabea698b4518f37263af15818a2c9fc7565521	not-for-merge	tag 'v3.1.4' of git://github.com/rails/rails
+8c677e921a1116085b00b522cea6204587c09754	not-for-merge	tag 'v3.1.4.rc1' of git://github.com/rails/rails
+f36dcaf488b4357a52f43e3912628428956d351f	not-for-merge	tag 'v3.2.0' of git://github.com/rails/rails
+9d6e52b55ec67d0573a0bb1900b13f38e18f7eba	not-for-merge	tag 'v3.2.0.rc1' of git://github.com/rails/rails
+d268ef2f6599cd58cc27a8c9f0b9b6649f62e6a2	not-for-merge	tag 'v3.2.0.rc2' of git://github.com/rails/rails
+67b8fbca921ba7e3e1fc02fe30a20963a67017e5	not-for-merge	tag 'v3.2.1' of git://github.com/rails/rails
+01b470f526922ad3fc5562a237d11d45347befa9	not-for-merge	tag 'v3.2.2' of git://github.com/rails/rails
+4bcd437f760cfaf310fece0fe36abe55bccba42b	not-for-merge	tag 'v3.2.2.rc1' of git://github.com/rails/rails
+45d6cd94b3ef2ec77166def41f29188445b35608	not-for-merge	tag 'v3.2.3' of git://github.com/rails/rails
+5f3726091851326d4976624db374a20d356b1630	not-for-merge	tag 'v3.2.3.rc1' of git://github.com/rails/rails
+5284e650be321273a2bb68bf4baa8adeb6bc586b	not-for-merge	tag 'v3.2.3.rc2' of git://github.com/rails/rails
